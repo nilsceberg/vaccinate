@@ -11,5 +11,5 @@ that computes the mean number of characters per line in text files.
 
 ## Why?
 
-A dummy tool for testing the [WARA-SW Tool Evaluation Platform](https://github.com/wasp-sweden/wara-sw-tech-tools/tree/main/dashboard).
+A dummy tool for testing the [WARA-SW Tool Evaluation Platform](https://github.com/wasp-sweden/wara-sw-tech-tools).
 
